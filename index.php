@@ -42,8 +42,21 @@
       <hr>
       <div id="education" class="content-item">
         <div class="vertical-center">
-          <h2>Education</h2>
-          <p>...</p>
+          <h2 class="mb-5">Education</h2>
+
+          <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div class="flex-grow-1">
+              <h3>CSUSB</h3>
+              <div class="subheading">
+                Computer Science
+              </div>
+              <p>GPA and school.</p>
+            </div>
+            <div class="flex-shrink-0">
+              <span class="text-primary">Fall 2015 - Present</span>
+            </div>
+          </div>
+
         </div>
       </div>
       <hr>
