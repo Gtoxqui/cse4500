@@ -40,6 +40,7 @@
         </div>
       </div>
       <hr>
+        
       <div id="education" class="content-item">
         <div class="vertical-center">
           <h2 class="mb-5">Education</h2>
@@ -48,18 +49,19 @@
             <div class="flex-grow-1">
               <h3>CSUSB</h3>
               <div class="subheading">
-                Computer Science
+                Computer Systems
               </div>
-              <p>GPA and school.</p>
+              <p>I currently have a 3.6 GPA and am taking many Computer Science & Engineering classes in order to understand & learn different type of languages of computers.</p>
             </div>
             <div class="flex-shrink-0">
-              <span class="text-primary">Fall 2015 - Present</span>
+              <span class="text-primary">Fall 2019 - Present</span>
             </div>
           </div>
 
         </div>
       </div>
       <hr>
+        
       <div id="experience" class="content-item">
         <div class="vertical-center">
           <h2>Experience</h2>
@@ -78,13 +80,14 @@
         </div>
       </div>
       <hr>
+        
       <div id="skills" class="content-item">
         <div class="vertical-center">
           <h2 class="mb-5">Skills</h2>
 
           <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
             <ul>
-              <li>Programming languages: C++, php, python, Java, JavaScipts, HTML, CSS</li>
+              <li>Programming languages: C++, php, Java, HTML, CSS</li>
               <li>System design</li>
               <li>System Administration</li>
             </ul>
@@ -93,17 +96,17 @@
         </div>
       </div>
       <hr>
+        
       <div id="interests" class="content-item">
         <div class="vertical-center">
           <h2 class="mb-5">Interests</h2>
 
           <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-            <p>Some descriptsion here ....</p>
+            <p>I like to play video games, play soccer, watch youtube videos & learn about cars.</p>
           </div>
 
         </div>
       </div>
-
     
       <hr>
     </div>
