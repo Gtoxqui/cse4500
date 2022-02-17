@@ -1,0 +1,22 @@
+{
+  "first-name": "Giovanni",
+  "last-name": "Toxqui",
+  "address": "5500 University Pkwy, San Bernardino, CA 92407",
+  "phone": "(760)123-097",
+  "email": "giotox@mail.com",
+  "introduction": "I like to play video games & learn about computers",
+  "experience":[
+    {
+      "title":"WEB DEVELOPER",
+      "employer":"CSUSB",
+      "period":"March 2018 - Present",
+      "description":"A description of your experience with this job."
+    },
+    {
+      "title":"APPLICATION DEVELOPER",
+      "employer":"CSUSB",
+      "period":"March 2018 - 2021",
+      "description":"A description of your experience with this job."
+    }
+  ]
+}
