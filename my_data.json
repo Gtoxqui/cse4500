@@ -4,19 +4,19 @@
   "address": "5500 University Pkwy, San Bernardino, CA 92407",
   "phone": "(760)123-097",
   "email": "giotox@mail.com",
-  "introduction": "I like to play video games & learn about computers",
+  "introduction": "I am a third year student & trying to get a bachelor's degree in Computer Systems at CSUSB. I am hispanic & am currently 21 years old.",
   "experience":[
     {
       "title":"WEB DEVELOPER",
       "employer":"CSUSB",
-      "period":"March 2018 - Present",
-      "description":"."
+      "period":"Spring 2022 - Present",
+      "description":"Know how to setup the design, interface & features of a website."
     },
     {
-      "title":"APPLICATION DEVELOPER",
+      "title":"GAME DEVELOPER",
       "employer":"CSUSB",
-      "period":"March 2018 - 2021",
-      "description":"A description of your experience with this job."
+      "period":"Spring 2022 - Present",
+      "description":"Know how to create, code & design desktop mini games."
     }
   ]
 }
